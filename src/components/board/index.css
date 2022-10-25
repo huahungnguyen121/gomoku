@@ -1,0 +1,7 @@
+.board__game-status {
+    margin: 0.625rem 0;
+}
+
+.board__board-row {
+    display: flex;
+}
